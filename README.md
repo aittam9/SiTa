@@ -52,8 +52,8 @@ conda create -n sita_env  # with conda or miniconda
 python -m venv path/to/sita_env # with python venv module
 
 # clone the repo
-git clone https://github.com/aittam9/cs50_final_project
-cd cs50_final_project
+git clone https://github.com/aittam9/SiTa
+cd SiTa
 
 #install dependencies
 pip install -r requirements.txt
